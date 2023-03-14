@@ -1,12 +1,12 @@
 
 SubGrow SDKはAndroidとiOSアプリのアプリ内課金に組み込むフレームワークです。(ENGLISH BELOW)
 
-まずは[subgrow.jp] (https://www.subgrow.jp)でユーザー登録をお願いします。
+まずは [subgrow.jp](https://subgow.jp) でユーザー登録をお願いします。
 
 # デモアプリ
 You can install and test our Demo app in the [Play Store]
 
-[Play Store] (https://play.google.com/apps/internaltest/4701286467904509592) で当社が用意したデモアプリでテストを行うことができます。デモアプリでsubgrowサービスのプロセスを簡単に確認できます。ご不明な点があればGithubでお申しつけください。source code はオープンでインテグレーションに際に使用可能です。
+[Play Store](https://play.google.com/apps/internaltest/4701286467904509592) で当社が用意したデモアプリでテストを行うことができます。デモアプリでsubgrowサービスのプロセスを簡単に確認できます。ご不明な点があればGithubでお申しつけください。source code はオープンでインテグレーションに際に使用可能です。
 
 # インストール
 
@@ -95,8 +95,7 @@ in-app subscriptions in Android and iOS.
 First, you need to register in our site https://www.subgrow.jp
 
 # Demo app
-You can install and test our Demo app in the [Play Store]
-(https://play.google.com/apps/internaltest/4701286467904509592) and check how
+You can install and test our Demo app in the [Play Store](https://play.google.com/apps/internaltest/4701286467904509592) and check how
 the service works, if you have any question, feel
 free to write to us in issues on Github. The [source code](./demo) is open and can be used as an integration example.
 
